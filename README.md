@@ -1,5 +1,5 @@
 # Priority-Scheduling-with-C-programming-language.
-implement one of the following scheduling algorithms with C programming language <br />
+implement one of the scheduling algorithms with C programming language <br />
 we implemneted the linked queue and linked list data structure to solve and implement the scheduling algorithm.<br />
 • Number of processes should be user defined (i.e. user enters number of processes at run time).<br />
 • All process data (i.e. process arrival time, burst time and quantum time) must be user defined.<br />
